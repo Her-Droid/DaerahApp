@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DaerahApp</string>
+    <string name="btn_login">Sign In</string>
+    <string name="password">Password</string>
+    <string name="email_address">Email Address</string>
+    <string name="image_logo">My Image Logo Dashboard</string>
+    <string name="title_register">Masuk dan mulai \nCari Daerah</string>
+    <string name="daerah">Daerah</string>
+    <string name="kota">Kota</string>
+    <string name="kecamatan">Keamatan</string>
+    <string name="kelurahan">Kelurahan</string>
+    <string name="kodepos">Kode Pos</string>
+    <string name="profil">Profil</string>
+    <string name="namacustomer">Nama Pelanggan</string>
+    <string name="email">Email</string>
+    <string name="telp">Nomor Telepon</string>
+    <string name="provinsi">Provinsi</string>
+    <string name="keluar">Keluar</string>
+
+</resources>
